@@ -1,0 +1,35 @@
+Practical 13: Excel Student Result Management
+
+Aim
+
+To analyze student marks using Excel tools.
+
+Objectives
+	•	To apply Excel formulas
+	•	To create charts
+
+Materials Required
+	•	MS Excel
+
+Procedure
+
+1. Enter student data – Input students’ names, marks, and other required details into the spreadsheet.
+
+
+2. Use Flash Fill – Apply Flash Fill to automatically complete patterns such as separating names or formatting data.
+
+
+3. Replace incorrect values – Identify errors and use Find & Replace or manual correction to fix inaccurate entries.
+
+
+4. Calculate pass/fail using IF – Create an IF formula to determine whether each student passes or fails based on their score.
+
+
+5. Use COUNTIF and AVERAGE – Apply COUNTIF to count specific results and AVERAGE to compute the class’s mean score.
+
+
+6. Create charts – Generate visual charts to represent student performance trends or score distributions.
+
+
+7. Apply conditional formatting – Use color-based formatting to highlight important values, such as low scores or top performers.
+
