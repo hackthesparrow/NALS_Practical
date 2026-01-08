@@ -1,0 +1,36 @@
+Practical 15: Personal Financial Planner
+
+Aim
+
+To prepare a personal financial planner using Excel.
+
+Objectives
+	•	To track expenses
+	•	To compare budget vs actual
+
+Materials Required
+	•	Excel
+
+Procedure
+	1. Enter expenses – Record all expense items with their categories, dates, and amounts in the spreadsheet.
+
+
+2. Apply Data Validation – Set validation rules to restrict inputs, such as allowing only numbers or predefined categories.
+
+
+3. Use SUMIF – Use the SUMIF function to total expenses by category or any specific condition you choose.
+
+
+4. Create budget sheet – Design a separate sheet comparing planned budgets to actual spending for better tracking.
+
+
+5. Highlight expenses above limit – Apply conditional formatting to automatically mark entries that exceed your budget limit.
+
+
+6. Create charts – Generate charts to visually present spending patterns, category breakdowns, or monthly totals.
+
+
+7. Adjust print settings – Modify page layout, scaling, and margins to ensure the sheet prints clearly and fits on the page.
+
+
+
